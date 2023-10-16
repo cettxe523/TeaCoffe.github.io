@@ -1,0 +1,114 @@
+﻿*{
+	margin: 0;
+	padding: 0;
+}
+
+
+body,html{
+margin:0px;
+padding:0px;
+background-attachment: fixed;
+background: #c7b39b url(fon2.jpg); /* Цвет фона и путь к файлу */
+color: #000; /* Цвет текста */
+}
+.body
+{
+font-size:16px;
+text-align:center;
+);
+color: Navy;
+}
+   
+#maket { z-index: 0;
+width:830px;
+margin:0 auto;
+}
+.a, .b{font-size:34px;
+           width:150px
+             }
+     .b{position:relative;
+         left:-3px;
+         top:-40;
+       color:red;
+         z-index:+1;
+             }  
+.a1, .b1{font-size:36px;
+           width:100px
+ 	text-align:center 
+               }
+     .b1{position:relative;
+         left:-2px;
+         top:-41;
+       color:red;
+         z-index:+1;
+             }  
+       .a,.a1{color:Navy} 
+
+#dynamic {z-index: 101;}
+#Logo,#Logo1,#Logo2,#Logo3
+{
+	z-index: 100;
+	background-image: url(img/fon2.png);
+	position: fixed; 
+  	width: 832px;
+	height: 201px;
+}
+
+A:link {font-weight: bold;
+	color: #000080;
+}
+A:visited {font-weight: bold;
+	color: #000080;
+}
+A:active {font-weight: bold;
+	color: #000080;
+}
+A:hover {font-weight: bold;
+	color:#008000 ;
+}
+.style1 {
+	color: #8B0A50;
+	font-weight: bold;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 40px;
+}
+.style2 {font-size: 22px;
+	text-align:center;
+	color: Navy}
+.style3 {
+	font-size: 16px;
+	color: #FFFFFF;
+		}
+.style4 {font-size: 20px; 
+margin-left:0px;
+}
+.style5 {font-size: 22px;
+	color: Navy;
+}
+.style6 {
+	color: #FFFFFF;
+	font-size: 12px;
+	font-weight: bold;
+}
+.style7 {
+	top: 50px;
+	font-size: 40px;
+	text-align:center;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #800000;
+}
+.styletable {font-size: 22px;
+	color: Navy;
+	background-color: #000000;
+}
+.style2u {font-size: 16px;
+	color: #000000;
+}
+.style3u {font-size: 22px;
+	color: #2E8B57;
+}
+.style1,.style2,.style3,.style7, .style3u{font-weight: bold
+}
+
+
+	
